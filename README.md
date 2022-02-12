@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lio92
 - 👀 I’m interested in frontend technologies
-- 🌱 I’m currently learning new frontend technologies
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on amazing projects
 - 📫 Reach me via liondevinc@gmail.com
 
