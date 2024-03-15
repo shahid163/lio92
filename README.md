@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lio92
 - 👀 I’m interested in Backend
-- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on amazing projects
 - 📫 Reach me via shdtabasum@gmail.com
 
